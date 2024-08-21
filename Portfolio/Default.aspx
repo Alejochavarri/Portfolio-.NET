@@ -329,24 +329,25 @@
                                     <h5>Quick Links</h5>
                                 </div>
                                 <div class="card-body">
-                                    <p>Home</p>
-                                    <p>About</p>
-                                    <p>Skills</p>
-                                    <p>Education</p>
-                                    <p>Proyects</p>
-                                    <p>Contact</p>
+                                    <p><i class="bi bi-house-door-fill"></i>  Home</p>
+                                    <p><i class="bi bi-person-fill"></i>  About</p>
+                                    <p><i class="bi bi-tools"></i>  Skills</p>
+                                    <p><i class="bi bi-mortarboard-fill"></i>  Education</p>
+                                    <p><i class="bi bi-laptop"></i>  Proyects</p>
+                                    <p><i class="bi bi-envelope-fill"></i>  Contact</p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-4">
                             <div class="card h-100">
                                 <div class="card-title" style="margin-left:15px">
-                                    <h5>Contact Info</h5>
+                                    <div class="h5"> Contact Info</div>
                                 </div>
                                 <div class="card-body">
-                                    <p>+54 11 XXXX - XXXX</p>
-                                    <p>alejochavarri0@gmail.com</p>
-                                    <p>Buenos Aires, Aregntina</p>
+                                    <p><i class="bi bi-telephone-fill"></i>  +54 11 XXXX - XXXX</p>
+                                    <p><i class="bi bi-envelope-fill"></i>  alejochavarri0@gmail.com</p>
+                                    <p><i class="bi bi-geo-alt-fill"></i>  Buenos Aires, Aregntina</p>
+                                    <br />  
                                     <h3>
                                         <a href="#"><i class="bi bi-linkedin icon-black"></i></a>
                                         <a href="#"><i class="bi bi-github icon-black"></i></a>
