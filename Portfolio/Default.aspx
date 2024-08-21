@@ -173,7 +173,7 @@
                     <div class="col-3">
                         <div class="card h-100">
                             <div class="card-body center">
-                                <img src="Img/Perfil.jpg" alt="Alternate Text" style="border-radius: 50%; width: 200px; height: 200px;" />
+                                <img src="Img/Profile.jpg" alt="Alternate Text" style="border-radius: 0%; width: 200px; height: 200px;" />
                             </div>
                         </div>
                     </div>
